@@ -1,6 +1,6 @@
-### Hi there 👋
+## Hi there 👋
 
-## I'm an MCs specializing in Machine Learning and Data Science
+### I'm an MCs specializing in Machine Learning and Data Science
 
 
 <a href="mailto:aviveiros2012@gmail.com">
@@ -10,7 +10,7 @@
   <img align="left" alt="Guilherme LinkedIn" width="40px" src="https://raw.githubusercontent.com/FallenFoil/FallenFoil/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.kaggle.com/guilhermeviveiros/">
-  <img align="left" alt="Guilherme Kaggle" width="40px" src="https://github.com/GuilhermeViveiros/GuilhermeViveiros/blob/master/kaggle.png" />
+  <img align="left" alt="Guilherme Kaggle" width="50px" src="https://github.com/GuilhermeViveiros/GuilhermeViveiros/blob/master/kaggle.png" />
 </a>
 
 <br />
