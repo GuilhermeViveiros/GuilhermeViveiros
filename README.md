@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### I'm an MCs specializing in Machine Learning and Data Science
+### MCs specializing in Machine Learning and Data Science
 
 
 <a href="mailto:aviveiros2012@gmail.com">
