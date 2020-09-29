@@ -16,18 +16,20 @@
 <br />
 <br />
 
-
-
-**GuilhermeViveiros/GuilhermeViveiros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently doing my dissertaion on ALtice
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently doing my disseration on 
+
+- 🌱 I’m always learning new Machine Learning techniques
+
 - 👯 I’m looking to collaborate on ...
+
 - 🤔 I’m looking for help with ...
-**- 💬 Ask me about ...
-**- 📫 How to reach me: ...
-**- 😄 Pronouns: ...
-**- ⚡ Fun fact: ...
+
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+-->
 
