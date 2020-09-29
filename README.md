@@ -10,7 +10,7 @@
   <img align="left" alt="Guilherme LinkedIn" width="40px" src="https://raw.githubusercontent.com/FallenFoil/FallenFoil/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.kaggle.com/guilhermeviveiros/">
-  <img align="left" alt="Guilherme Kaggle" width="70px" src="https://github.com/GuilhermeViveiros/GuilhermeViveiros/blob/master/kaggle.png" />
+  <img align="left" alt="Guilherme Kaggle" width="70px" src="https://github.com/GuilhermeViveiros/GuilhermeViveiros/blob/master/k.png" />
 </a>
 
 <br />
