@@ -4,17 +4,22 @@
 
 
 <a href="mailto:aviveiros2012@gmail.com">
-  <img align="left" alt="Guilherme email" width="30px" src="https://raw.githubusercontent.com/FallenFoil/FallenFoil/master/assets/hotmail.svg" />
+  <img align="left" alt="Guilherme email" width="25px" src="https://raw.githubusercontent.com/FallenFoil/FallenFoil/master/assets/hotmail.svg" />
 </a>
 <a href="https://www.linkedin.com/in/guilherme-viveiros-28985418b/">
-  <img align="left" alt="Guilherme LinkedIn" width="30px" src="https://raw.githubusercontent.com/FallenFoil/FallenFoil/master/assets/linkedin.svg" />
+  <img align="left" alt="Guilherme LinkedIn" width="25px" src="https://raw.githubusercontent.com/FallenFoil/FallenFoil/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.kaggle.com/guilhermeviveiros/">
-  <img align="left" alt="Guilherme Kaggle" width="30px" src="https://github.com/GuilhermeViveiros/GuilhermeViveiros/blob/master/k.png" />
+  <img align="left" alt="Guilherme Kaggle" width="25px" src="https://github.com/GuilhermeViveiros/GuilhermeViveiros/blob/master/k.png" />
 </a>
 
 <br />
 <br />
+
+- 🔭 I'm currently working on my Master's thesis about Reinforcement Learning for Self * Networks
+- 🌱 Learning several algorithms of Deep Reinforcement Learning
+- ❤️ I enjoy learning new things, messing with data, and staying connected with state-of-the-art algorithms.
+- 👯 I'm looking to collaborate on projects related do Computer Vision or Reinforcement Learning.
 
 <!--
 
