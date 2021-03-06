@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### MCs specializing in Machine Learning and Data Science
+### MSc specializing in Machine Learning and Data Science
 
 
 <a href="mailto:aviveiros2012@gmail.com">
