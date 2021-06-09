@@ -16,10 +16,9 @@
 <br />
 <br />
 
-- 🔭  I'm currently on my Master's thesis;
-- 🌱  Learning several algorithms of Deep Reinforcement Learning;
-- 🤔  I enjoy learning new things, messing with data, and staying connected with state-of-the-art algorithms;
-- 😄 I'm looking to collaborate on projects related to Computer Vision and Reinforcement Learning;
+- I'm currently on my Master's thesis;
+- Learning several algorithms of Deep Reinforcement Learning & Computer Vision;
+- I enjoy learning new things, messing with data, and most of all, staying connected with state-of-the-art algorithms;
 
 <!--
 
