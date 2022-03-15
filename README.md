@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### MSc specializing in Machine Learning and Data Science
+### Machine Learning Engineer
 
 
 <a href="mailto:aviveiros2012@gmail.com">
