@@ -16,9 +16,8 @@
 <br />
 <br />
 
-- I'm currently on my Master's thesis;
-- Learning several algorithms of Deep Reinforcement Learning & Computer Vision;
-- I enjoy learning new things, messing with data, and most of all, staying connected with state-of-the-art algorithms;
+- I'm currently working on dotmoovs;
+- SOTA & Enginnering - way to go
 
 <!--
 
