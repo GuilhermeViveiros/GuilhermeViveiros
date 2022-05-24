@@ -16,7 +16,7 @@
 <br />
 <br />
 
-- I'm currently working at dotmoovs;
+- Currently working at dotmoovs;
 - SOTA & Enginnering - way to go
 
 <!--
