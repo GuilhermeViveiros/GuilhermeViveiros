@@ -16,7 +16,6 @@
 <br />
 <br />
 
-- Currently working at dotmoovs;
 - SOTA & Engineering - way to go
 
 <!--
