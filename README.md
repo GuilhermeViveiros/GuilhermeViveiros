@@ -9,9 +9,6 @@
 <a href="https://www.linkedin.com/in/guilherme-viveiros-28985418b/">
   <img align="left" alt="Guilherme LinkedIn" width="25px" src="https://raw.githubusercontent.com/FallenFoil/FallenFoil/master/assets/linkedin.svg" />
 </a>
-<a href="https://www.kaggle.com/guilhermeviveiros/">
-  <img align="left" alt="Guilherme Kaggle" width="25px" src="https://github.com/GuilhermeViveiros/GuilhermeViveiros/blob/master/k.png" />
-</a>
 
 <br />
 <br />
