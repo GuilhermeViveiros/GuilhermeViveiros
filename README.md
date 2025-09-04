@@ -1,7 +1,8 @@
 ## Hi there 👋
 
-### Machine Learning Engineer
+### Ph.D Student at Instituto Superior Técnico (IST)
 
+<a href="[https://deep-spin.github.io/sardine-website/index.html]">Sardine Group </a>
 
 <a href="mailto:aviveiros2012@gmail.com">
   <img align="left" alt="Guilherme email" width="25px" src="https://raw.githubusercontent.com/FallenFoil/FallenFoil/master/assets/hotmail.svg" />
