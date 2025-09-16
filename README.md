@@ -2,7 +2,7 @@
 
 ### Ph.D. Student at Instituto Superior Técnico (IST)
 
-🔬 Member of the [Sardine Group](https://deep-spin.github.io/sardine-website/index.html)
+🔬 Member of the [Sardine Lab](https://deep-spin.github.io/sardine-website/index.html)
 
 - Research & Engineering - way to go
 
